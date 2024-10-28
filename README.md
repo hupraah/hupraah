@@ -8,7 +8,7 @@ My name is Petra Huszti, and I'm an aspiring data scientist. My passion for data
 
 ⚡ My favorite BI softver: Power BI
 
-📫 How to reach me: +36706031824
+📫 How to reach me: huszti.petra@gmail.com or www.linkedin.com/in/petrahuszti-dataanalyst
 
 
 <!---

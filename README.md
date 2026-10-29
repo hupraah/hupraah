@@ -13,7 +13,7 @@ I work at the intersection of business and IT: understanding what users need and
 
 🌱 Currently learning: software development & testing
 
-📫 How to reach me: huszti.petra@gmail.com or www.linkedin.com/in/petrahuszti-dataanalyst
+📫 How to reach me: huszti.petra@gmail.com or www.linkedin.com/in/petrahuszti-sqldev
 
 
 <!---
